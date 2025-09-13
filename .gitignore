@@ -41,11 +41,6 @@ Thumbs.db
 *.pkl
 *.npz
 
-# Salidas de matplotlib / figures cache
-**/figures/
-*.png
-*.jpg
-*.jpeg
 
 # Archivos de Colab
 *.json
